@@ -201,7 +201,6 @@ working tree restore 여부는 사용자 lock-in 사항 (현재 deleted 상태).
 verifier=`""` (공란) 도 mk2 schema 상 valid (anima 측 다수 entry 가 그렇게 land) — script 없을 때 manual
 override 경로 (state/pixie_<domain>_verify_manual_review.jsonl) 만 land 도 ok.
 
-## §6 raw#10 honest C3 (10 caveat)
 
 C1 — 본 audit 는 **spec emit only**. .roadmap.<domain> 신규 파일 0건 생성, README.ai.md 0건 추가.
 사용자 lock-in 후 별도 cycle 필요.
@@ -245,7 +244,6 @@ C10 — env() lazy + <user> placeholder convention (raw 15) — 본 doc 의 모�
 - TL;DR 최상단 5 줄
 - 모든 §-section 표 (table) 우선
 - 4 후보 priority rank A/B/C 으로 actionable
-- raw#10 caveats (C1-C10) inline
 - 마지막 next step 명시 (사용자 lock-in 대기)
 
 ## §9 Marker 1개 emit

@@ -175,7 +175,6 @@ mk1 narrative .roadmap 의 5 ✓ + 4 phase 모두 mk2 cond 로 매핑 완료. **
 7. **mk1 narrative .roadmap restore 결정** — working tree deleted state 복원 vs HEAD blob 만 keep
    (사용자 lock-in)
 
-## §6 raw#10 honest C3 (10 caveat)
 
 C1 — 본 cycle 은 **2 .roadmap.<domain> JSONL header land only**. 실제 cond verifier 미실행, status
 값은 evidence + mk1 narrative claim + 코드 read-only audit 기반 추정. PASS/FAIL 검증은 사용자 lock-in
@@ -226,7 +225,6 @@ handoff doc only 정책에 따라 사용자 directive 도 자체 paraphrase 만 
 - TL;DR 최상단 5 줄
 - 모든 §-section 표 (table) 우선
 - §0 predecessor 비교 표 / §1 file index 표 / §2-§3 cond 요약 표 / §4 mk1 → mk2 매핑 표
-- raw#10 caveats (C1-C10) inline
 - §5 next-cycle action 7-step 명시
 - 마지막 §10 file index sha-pin
 

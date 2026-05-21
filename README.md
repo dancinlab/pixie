@@ -9,7 +9,6 @@
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-yellow"></a>
   <a href=".github/workflows/lint.yml"><img alt="CI" src="https://github.com/dancinlab/pixie/actions/workflows/lint.yml/badge.svg"></a>
-  <a href="https://discord.gg/mYzqYr67R"><img alt="Discord" src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white"></a>
   <a href="https://workers.cloudflare.com/"><img alt="Platform" src="https://img.shields.io/badge/platform-Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white"></a>
   <img alt="Sibling" src="https://img.shields.io/badge/sibling-run%20·%20scrap%20·%20skynet--timer-blueviolet">
 </p>
